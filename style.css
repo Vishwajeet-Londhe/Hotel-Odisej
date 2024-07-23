@@ -29,8 +29,10 @@ html, body{
     font-weight: 400;
     font-family: PP woodland;
     line-height: 4.8vw;
+}
 
-
+#page2 h1 span{
+    font-family: PP woodland;
 }
 
 #page3{
